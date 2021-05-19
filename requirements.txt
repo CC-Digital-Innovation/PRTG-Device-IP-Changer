@@ -1,0 +1,5 @@
+configparser
+openpyxl
+pandas
+pytz
+requests
